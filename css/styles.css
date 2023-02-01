@@ -1,0 +1,154 @@
+:root {
+  -one-color: #434455;
+  -titel-color: #2E2F42;
+  -link-color:  #434455;
+}
+body {
+  font-family: 'Roboto';
+  color: #FFFFFF;
+}
+
+.link .link_one {
+  color:#434455;
+  font-size: 16px;
+  line-height: 1.5em;
+  text-decoration: none;
+  font-weight: 400;
+  font-style: normal;
+}
+.link_one:hover,
+.link_one :focus{
+  color: darkblue;
+}
+
+
+.button1 {
+   color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5em;
+    font-family: 'Roboto';
+}
+button:focus,
+button:active,
+button:hover{
+   color: blue;
+}
+button {
+    cursor: pointer;
+}
+.button2 {
+   color: #FFFFFF;
+   font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5em;
+    background: #4D5AE5;
+    font-family: 'Roboto';
+}
+.list {
+  text-decoration: none;
+}
+.list .services {
+  color:#2E2F42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2em;
+  text-decoration: none;
+
+}
+.list .under_services {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5em;
+  text-decoration: none;
+}
+*{
+  text-decoration: none;
+}
+.word_part_one {
+  color: #4D5AE5;
+  font-weight: 800;
+ font-size: 18px;
+ line-height: 1.33em;
+ font-family: 'Raleway', sans-serif;
+ text-decoration: none;
+}
+.word_part_two {
+  color: #F4F4FD;
+  font-weight: 800;
+  font-size: 18px;
+ line-height: 1.33em;
+ font-family: 'Raleway', sans-serif;
+ text-decoration: none;
+}
+.references .references_part {
+  color: #2E2F42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+.footerd {
+  color: #E7E9FC;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+.benefits .big_titel {
+  color: #2E2F42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2em;
+}
+.benefits .under_titel {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+.list_downsize .big_titel_two {
+  color: #2E2F42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2em;
+  text-decoration: none;
+}
+.list_downsize .under_titel-two {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5em;
+  text-decoration: none;
+}
+.first_titel {
+  font-size: 56px;
+  line-height: 1.07em;
+  color: #FFFFFF;
+
+}
+
+.first_section {
+  background: #2E2F42;
+}
+.team {
+  background: #F4F4FD;
+}
+.word_part_three { 
+  color: #2E2F42;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.33em;
+  font-family: 'Raleway';
+  text-decoration: none;
+}
+.second_titel {
+  color: #2E2F42;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11em;
+}
+.team .titel_team {
+  color: #2E2F42;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11em;
+}
+.ending {
+  background: #2E2F42;
+}

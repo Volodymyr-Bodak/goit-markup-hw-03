@@ -276,6 +276,7 @@ button {
 }
 .list_distance {
   margin-top: 48px;
+  border: 1px solid #E7E9FC;
 }
 .haupt_section {
   padding-bottom: 120px;

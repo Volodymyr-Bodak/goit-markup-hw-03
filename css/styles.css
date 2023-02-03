@@ -277,6 +277,10 @@ button {
 .list_distance {
   margin-top: 48px;
 }
+.haupt_section {
+  padding-bottom: 120px;
+  padding-top: 72px;
+}
 html {
   box-sizing: border-box;
 }

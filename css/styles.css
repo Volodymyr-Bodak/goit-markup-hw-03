@@ -283,6 +283,10 @@ button {
   padding-bottom: 120px;
   padding-top: 72px;
 }
+.list_distance_two {
+  border: 1px solid #E7E9FC;
+}
+
 html {
   box-sizing: border-box;
 }

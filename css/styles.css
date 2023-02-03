@@ -230,7 +230,6 @@ button {
 }
 .list_downsize {
   gap: 24px;
-  margin-bottom: 72px;
   display: flex;
   flex-wrap: wrap;
 }

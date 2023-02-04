@@ -190,10 +190,11 @@ button {
 .one_header {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid #E7E9FC;
   padding-top: 24px;
   padding-bottom: 24px;
-
+}
+.up_header {
+  border-bottom: 1px solid #E7E9FC;
 }
 .one_footer
 .navigation {

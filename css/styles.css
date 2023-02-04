@@ -203,6 +203,7 @@ button {
 .references {
   display: flex;
   gap: 40px;
+  margin-left: 76px;
 }
 .second_section {
   padding-top: 120px;
@@ -252,7 +253,7 @@ button {
   align-items: center;
   gap: 24px;
   flex-direction: row;
-  margin-top: 96px;
+  padding-top: 96px;
   justify-content: center;
 }
 .under_benefits {
@@ -280,8 +281,8 @@ button {
   max-width: 360px;
 }
 .haupt_section {
-  padding-bottom: 216px;
-  padding-top: 72px;
+  padding-bottom: 120px;
+  padding-top: 216px;
 }
 .list_distance_two {
   border: 1px solid #E7E9FC;

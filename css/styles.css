@@ -233,6 +233,7 @@ button {
   gap: 24px;
   display: flex;
   flex-wrap: wrap;
+   margin-top: 72px ;
 }
 .link {
   display: flex;
@@ -258,9 +259,6 @@ button {
 }
 .under_benefits {
   max-width: 264px;
-}
-.images_one {
-  margin-top: 72px ;
 }
 .text_one {
   padding-top: 32px ;

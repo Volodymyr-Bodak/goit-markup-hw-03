@@ -276,17 +276,14 @@ button {
   padding-bottom: 32px;
 }
 .list_distance {
-  margin-top: 48px;
   border: 1px solid #E7E9FC;
   max-width: 360px;
+  column-gap: 24px;
+  row-gap: 48px;
 }
 .haupt_section {
   padding-bottom: 120px;
   padding-top: 216px;
-}
-.list_distance_two {
-  border: 1px solid #E7E9FC;
-  max-width: 360px;
 }
 
 html {

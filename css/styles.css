@@ -254,7 +254,6 @@ button {
   align-items: center;
   gap: 24px;
   flex-direction: row;
-  padding-top: 96px;
   justify-content: center;
 }
 .under_benefits {

@@ -61,7 +61,8 @@ button {
   text-decoration: none;
   display: flex;
   flex-wrap: wrap;
-  gap: 24px;
+column-gap: 24px;
+  row-gap: 48px;
 }
 .list .services {
   color:#2E2F42;
@@ -76,7 +77,7 @@ button {
   font-size: 16px;
   line-height: 1.5em;
   text-decoration: none;
-  margin-bottom: 8px;
+  margin-top: 8px;
 }
 *{
   text-decoration: none;
@@ -202,7 +203,6 @@ header {
 .references {
   display: flex;
   gap: 40px;
-  margin-left: 76px;
 }
 .second_section {
   padding-top: 120px;
@@ -274,10 +274,6 @@ header {
 .list_distance {
   border: 1px solid #E7E9FC;
   max-width: 360px;
-  column-gap: 24px;
-}
-.list_distance:nth-child(n+4) {
-  margin-top: 48px;
 }
 .haupt_section {
   padding-bottom: 120px;

@@ -61,8 +61,10 @@ button {
   text-decoration: none;
   display: flex;
   flex-wrap: wrap;
-column-gap: 24px;
+  column-gap: 24px;
   row-gap: 48px;
+  margin-top: 72px;
+  
 }
 .list .services {
   color:#2E2F42;
